@@ -16,7 +16,9 @@ ul.twocol { width: 110%; }
 </style>
 
 Hi! This is Amirhossein, a PhD researcher at the University of Antwerp, where I am part of the Modelling for Sustainability (M4S) research group. I hold both a Bachelor’s and a Master’s degree in Computer Science from the Iran University of Science and Technology. My research interests include the development and application of deep learning models across diverse domains, including climate and energy systems, medical imaging, finance, and image analysis. 
+
 During my PhD, I focus specifically on investigating the impacts of climate change on renewable energy droughts using advanced machine learning techniques. I am particularly interested in building robust, data-driven solutions that bridge theoretical advances in artificial intelligence with real-world challenges in sustainability and beyond. 
+
 Outside of research, I enjoy playing chess. Feel free to challenge me on Chess.com, but be warned, I play to win! I am also currently learning Dutch and would be happy to connect with others interested in a language exchange.
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'></ul>
@@ -63,7 +65,7 @@ function toggle_visibility(id) {
 
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
-### Iran University of Science and Technology:
+### University of Antwerp:
 <ul class='twocol' markdown='1'>
 <li> Data structures</li>
 </ul>
