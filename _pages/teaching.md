@@ -8,6 +8,9 @@ author_profile: true
 
 I *love* teaching and I've been passionately doing it since I was 14 in high school. Here are my academic experiences:
 
+## University of Antwerp:
+- Data structures (<i style='font-size: 0.9em;'>Lab Instructor</i>)
+
 ## Iran University of Science and Technology:
 - Natural Language Processing (<i style='font-size: 0.9em;'>Teacher Assistant</i>)
 - Natural Language Processing (<i style='font-size: 0.9em;'>Teacher Assistant</i>)
