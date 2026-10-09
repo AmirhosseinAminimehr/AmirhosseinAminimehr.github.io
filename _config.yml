@@ -82,26 +82,26 @@ analytics:
 author:
   name             : "Amirhossein Aminimehr"
   avatar           : "profile.png"
-  bio              : "Medical Image Analysis Researcher"
+  bio              : "Computer Scientist"
   location         :
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IHpx4ckAAAAJ&hl=en"
-  gmail            : "hosseindodg@gmail.com"
-  email            : "amir_aminimehr@comp.iust.ac.ir"
+  gmail            : "amirhosseinaminimehr@gmail.com"
+  email            : "Amirhossein.Aminimehr@uantwerpen.be"
   #email           : "smahmadpanah@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   #bitbucket       :
   skype            :
-  phone            : "+98 939 364 6478"
+  phone            : 
   telegram         :
   facebook         :
   foursquare       :
   github           : "AmirhosseinAminimehr"
   google_plus      :
   keybase          :
-  instagram        : "hey_amirhossein"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/amirhossein-aminimehr-3551711bb/?originalSubdomain=fr"
