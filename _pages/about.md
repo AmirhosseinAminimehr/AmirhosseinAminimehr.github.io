@@ -15,20 +15,22 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
 
-**Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a researcher in Medical Image Analysis in Iran.
-Prior to that, I studied at Iran University of Science and Technology for 7 years (BSc and MSc in Computer Engineering). Since then, I have been pursuing my passion for:
-<ul class='twocol' style="margin-top: -1%;" markdown='1'>
+Hi! This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD researcher at the University of Antwerp, where I am part of the Modelling for Sustainability (M4S) research group. I hold both a Bachelor’s and a Master’s degree in Computer Science from the Iran University of Science and Technology. My research interests include the development and application of deep learning models across diverse domains, including climate and energy systems, medical imaging, finance, and image analysis. During my PhD, I focus specifically on investigating the impacts of climate change on renewable energy droughts using advanced machine learning techniques. I am particularly interested in building robust, data-driven solutions that bridge theoretical advances in artificial intelligence with real-world challenges in sustainability and beyond. Outside of research, I enjoy playing chess. Feel free to challenge me on Chess.com, but be warned, I play to win! I am also currently learning Dutch and would be happy to connect with others interested in a language exchange.
 
-<li> Medical Image Analysis</li>
+<ul class='twocol' style="margin-top: -1%;" markdown='1'></ul>
+
+<li> Climate Modeling</li>
+<li> Extreme Events</li>
+<li> Explainable AI</li>
+<li> Deep Learning</li>
 <li> Image Processing</li>
 <li> Scene Recognition</li>
 <li> Stock Prediction</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
-my full name is <i>Amirhossein Aminimehr</i> , and here is my voice pronouncing my name:  
-<span><audio id="player" src="files/my-name.m4a"></audio>
-<img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
+my full name is <i>Amirhossein Aminimehr</i>
+</span></sup></p>
 
 <script>
 function toggle_visibility(id) {
@@ -42,13 +44,15 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
+0. **Global warming intensifies compound renewable energy droughts**, *Preprint*, 2026 [[Link](https://www.researchsquare.com/article/rs-9856664/v1)]
+<br><i>Amirhossein Aminimehr</i>, Peter Hellinckx, Hossein Tabari
+0. **Renewable Energy Droughts Under Global Warming**, *EGU26*, 2026 [[Link](https://meetingorganizer.copernicus.org/EGU26/EGU26-13163.html)]
+<br><i>Amirhossein Aminimehr</i>, Peter Hellinckx, Hossein Tabari
 0. **Implicit Neural Representation in Medical Imaging: A Comparative Survey**, *ICCV CVAMD*, 2023 [[Link](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Molaei_Implicit_Neural_Representation_in_Medical_Imaging_A_Comparative_Survey_ICCVW_2023_paper.pdf)]
 <br>Amirali Molaei, <i>Amirhossein Aminimehr</i>, Armin Tavakoli, Amirhossein Kazerouni, Babak Azad, Reza Azad, Dorit Merhof
-0. **Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks**, *To be submitted in IEEE Journal of Biomedical and Health Informatics*
-<br>Ehsan Khodapanah Aghdam, Reza Azad, Atlas Hadaddi Avval, <i>Amirhossein Aminimehr</i>, Sania Eskandari, Alaa Sulaiman, Dorit Merhof
 0. **Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition**, *Arxiv*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110)]
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
-0. **Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**, *Arxiv*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953)]
+0. **Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**, *GUIDE-AI '24*, 2024 [[Link](https://dl.acm.org/doi/abs/10.1145/3665601.3669841)]
 <br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
 0. **A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches**, *Computational Economics - Springer*, 2022 [[Link](https://link.springer.com/article/10.1007/s10614-022-10283-1)]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
