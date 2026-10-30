@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="10">
-<li> <b>Global warming intensifies compound renewable energy droughts - Preprint</b> [<a href="https://www.researchsquare.com/article/rs-9856664/v1">Link</a>]
+<li> <b>Global warming intensifies compound renewable energy droughts - Communications Earth & Environment</b> [<a href="https://www.nature.com/articles/s43247-026-04183-7">Link</a>]
 <br><i>Amirhossein Aminimehr</i>, Peter Hellinckx, Hossein Tabari
 <div class='button' data-content="toggle-text"><a href="#10">abstract</a></div>
 <div class='abstract'>
