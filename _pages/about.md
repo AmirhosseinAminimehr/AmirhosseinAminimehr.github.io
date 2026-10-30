@@ -43,7 +43,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Global warming intensifies compound renewable energy droughts**, *Preprint*, 2026 [[Link](https://www.researchsquare.com/article/rs-9856664/v1)]
+0. **Global warming intensifies compound renewable energy droughts**, *Communications Earth & Environment*, 2026 [[Link](https://www.nature.com/articles/s43247-026-04183-7)]
 <br><i>Amirhossein Aminimehr</i>, Peter Hellinckx, Hossein Tabari
 0. **Renewable Energy Droughts Under Global Warming**, *EGU26*, 2026 [[Link](https://meetingorganizer.copernicus.org/EGU26/EGU26-13163.html)]
 <br><i>Amirhossein Aminimehr</i>, Peter Hellinckx, Hossein Tabari
